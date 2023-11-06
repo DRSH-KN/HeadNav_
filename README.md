@@ -3,6 +3,7 @@ Arduino-HC SR04 - 3D NAVIGATION SYSTEM FOR BLIND USING VIBRATIONS
 
 Arduino Based Navigation System that generates Vibration Patterns on Forehead indicating objects around it in a 3d space. Uses 4 Ultrasonic Sensor to detect objects at different angles.
 The algorithm generates vibrations intensity based on distance of the object from the user.
+See the Project Here: <a href='https://scienceinmyroom.blogspot.com/p/headnav-3d-navigation-system-for-blind.html'>
 
 Current Features
 ----------------
